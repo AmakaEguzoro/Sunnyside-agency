@@ -11,10 +11,6 @@ This is a solution to the [Sunnyside agency landing page challenge on Frontend M
 
 - Solution URL: [GitHub](https://github.com/AmakaEguzoro/Sunnyside-agency)
 
-## My process
-
-[YouTube](https://youtu.be/U7ZZnILFO3w)
-
 ### Built with
 
 - HTML5
